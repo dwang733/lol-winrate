@@ -1,4 +1,0 @@
-{
-    "riot-api-key": "RGAPI-f7f34af9-98cf-48db-80e9-eab32890bfc2",
-    "champion-gg-api-key": "95180d3450714d245bd72c8ed3fed7bd"
-}
